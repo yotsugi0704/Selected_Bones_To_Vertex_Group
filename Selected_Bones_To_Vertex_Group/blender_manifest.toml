@@ -1,0 +1,10 @@
+blender_version_min = "4.2.0"
+id = "Selected_Bones_To_Vertex_Group"
+license = ["SPDX:GPL-3.0-or-later"]
+maintainer = "Mochi_Lin"
+name = "Selected_Bones_To_Vertex_Group"
+schema_version = "1.0.0"
+tagline = "Add or delete vertex groups for the selected bones"
+type = "add-on"
+version = "1.0.2"
+tags = ["Rigging"]
